@@ -36,7 +36,7 @@ section {
 
 .banner {
     background: #D00C18;
-    background-image: url(/img/secot.png);
+    background-image: url(img/secot.png);
     background-repeat: no-repeat;
     background-position: right center;
     background-size: contain;
